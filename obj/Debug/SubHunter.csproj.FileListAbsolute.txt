@@ -1,0 +1,8 @@
+D:\My Sources\SubHunter\SubHunter\bin\Debug\SubHunter.exe.config
+D:\My Sources\SubHunter\SubHunter\bin\Debug\SubHunter.exe
+D:\My Sources\SubHunter\SubHunter\bin\Debug\SubHunter.pdb
+D:\My Sources\SubHunter\SubHunter\obj\Debug\SubHunter.csproj.AssemblyReference.cache
+D:\My Sources\SubHunter\SubHunter\obj\Debug\SubHunter.csproj.SuggestedBindingRedirects.cache
+D:\My Sources\SubHunter\SubHunter\obj\Debug\SubHunter.csproj.CoreCompileInputs.cache
+D:\My Sources\SubHunter\SubHunter\obj\Debug\SubHunter.exe
+D:\My Sources\SubHunter\SubHunter\obj\Debug\SubHunter.pdb
